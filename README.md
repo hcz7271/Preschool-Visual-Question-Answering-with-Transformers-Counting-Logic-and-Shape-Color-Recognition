@@ -3,7 +3,7 @@
 
 This project is an innovative Visual Question Answering (VQA) system designed specifically for preschool children, addressing tasks like counting, logic, shape recognition, and color identification. Our solution integrates the ViLT-VQAv2 and BLIP-2 models to generate accurate answers based on both image and text inputs.
 
-<img src="Resources\model_architecture.jpg" alt="alt text" title="Sample image caption">
+<img src="resources\model_architecture.jpg" alt="alt text" title="Sample image caption">
 
 ## Vision-and-Language Transformer (ViLT), fine-tuned on VQAv2
 
